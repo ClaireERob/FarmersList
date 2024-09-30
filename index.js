@@ -1,12 +1,8 @@
 // Import Classes Here
+const Auth = require("./classes/Auth.js");
 
 
-
-
-
-
-
-
+ 
 
 
 // DO NOT EDIT BELOW THIS LINE
