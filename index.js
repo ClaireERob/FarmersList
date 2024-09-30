@@ -2,7 +2,6 @@
 import Product from '../classes/Product';
 
 // Create a new Product instance
-const product1 = new Product('Laptop', 999.99, 'A high performance laptop');
 
 
 
